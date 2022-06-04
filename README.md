@@ -1,2 +1,2 @@
-[My HomePage](https://chieh-eric.github.io/)
+[See my hompage](https://chieh-eric.github.io/)
 This is profile
